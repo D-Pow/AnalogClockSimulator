@@ -1,5 +1,5 @@
 /**
- * Author: Devon
+ * Author: D-Pow
  * 9-28-15
  */
 package analogclock;
